@@ -1,0 +1,1 @@
+SETTING 1 UDP = RESULT : OK, Total received bytes : 3145728, Transfer time : 30.715039, Throughput : 102416.54 bytes/s

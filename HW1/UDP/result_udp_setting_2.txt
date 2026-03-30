@@ -1,0 +1,1 @@
+SETTING 2 UDP = RESULT : INCOMPLETE, Total received bytes : 444672, Transfer time : 6.455444, Throughput : 68883.26 bytes/s

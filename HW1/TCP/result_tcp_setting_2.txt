@@ -1,0 +1,1 @@
+SETTING 2 TCP = RESULT : Complete, Total received bytes : 3145728, Transfer time : 3.506152, Throughput : 897202.30 bytes/s
